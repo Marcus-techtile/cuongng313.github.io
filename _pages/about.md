@@ -68,6 +68,43 @@ Mentor of graduate students at VAST (2 students received VinIF scholarships and 
 
 Reviewer of: Transactions of the Institute of Measurement and Control.
 
+## Selected Projects
+<div class="research-container">
+  <div class="research-item">
+    <h3>Vietnam’s National project - Research and develop an intelligent mobile robot using
+      different types of sensing technology and IoT platform, AI, and implemented in radioactive
+      environment monitoring application</h3>
+    <p class="research-meta">Vietnam Academy of Science and Technology | Oct 2023 - Present</p>
+    <p class="research-supervisor">Supervisor: Dr. Ngo Manh Tien</p>
+  </div>
+
+  <div class="research-item">
+    <h3>Master Project - Design adaptive controllers and a state observer for the parallel robot</h3>
+    <p class="research-meta">Hanoi University of Science and Technology | Oct 2020 - May 2022</p>
+    <p class="research-supervisor">Supervisor: Assoc. Prof. Nguyen Tung Lam</p>
+  </div>
+
+  <div class="research-item">
+    <h3>Research, design, and manufacture an intelligent humanoid robot IVASTBot implemented
+      in communication and serving people</h3>
+    <p class="research-meta">Vietnam Academy of Science and Technology | Oct 2020 - Sep 2023</p>
+    <p class="research-supervisor">Supervisor: Dr. Ngo Manh Tien</p>
+  </div>
+
+  <div class="research-item">
+    <h3>Graduation Project - Design an intelligent navigation system for the Omni mobile robot
+      in uncertain environments</h3>
+    <p class="research-meta">Hanoi University of Science and Technology | Jan 2019 - Oct 2020</p>
+    <p class="research-supervisor">Supervisors: Assoc. Prof. Nguyen Tung Lam & Dr. Ngo Manh Tien</p>
+  </div>
+
+  <div class="research-item">
+    <h3>Research and design nonlinear adaptive controllers for robot systems based on Radial
+      Basis Function neural network (RBFNN) and Fuzzy logic</h3>
+    <p class="research-meta">Hanoi University of Science and Technology | Jan 2019 - Oct 2020</p>
+    <p class="research-supervisor">Supervisor: Assoc. Prof. Nguyen Tung Lam</p>
+  </div>
+</div>
 
 ## Vitæ
 <div class="cv" id="resume">
@@ -287,5 +324,48 @@ Reviewer of: Transactions of the Institute of Measurement and Control.
     display: block;
     margin: 0.6em 0 0 0;
   }
+}
+</style>
+
+<style>
+.research-container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.research-item {
+  margin-bottom: 2em;
+  padding: 1.5em;
+  border-left: 4px solid #006E51;
+  background: #f8f9fa;
+  border-radius: 0 5px 5px 0;
+}
+
+.research-item h3 {
+  margin: 0 0 0.5em 0;
+  color: #333;
+  font-size: 1.2em;
+}
+
+.research-meta {
+  color: #666;
+  font-style: italic;
+  margin: 0.5em 0;
+}
+
+.research-supervisor {
+  color: #006E51;
+  font-weight: 500;
+  margin: 0.5em 0;
+}
+
+.research-item ul {
+  margin: 1em 0 0 0;
+  padding-left: 1.5em;
+}
+
+.research-item li {
+  margin-bottom: 0.5em;
+  line-height: 1.4;
 }
 </style>
