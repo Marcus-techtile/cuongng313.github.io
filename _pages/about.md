@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-I am a Robotics Engineer at [Goldbell](https://www.goldbell.com.sg/), Singapore, and a Researcher at [Vietnam Academy of Science and Technology](https://vast.gov.vn/web/vietnam-academy-of-science-and-technology/home).
+I am a Senior Robotics Engineer at [Goldbell](https://www.goldbell.com.sg/), Singapore, and a Researcher at [Vietnam Academy of Science and Technology](https://vast.gov.vn/web/vietnam-academy-of-science-and-technology/home).
 
 I obtained my M.S. degree in Control Engineering and Automation from [Hanoi University of Science and Technology](https://hust.edu.vn/en/), one of the most prestigious technical universities in Vietnam. During my studies, I was awarded scholarships from both the university and [VinIF](https://vinif.org/en/), a highly regarded scholarship program funded by [VinGroup](https://vingroup.net/en), the largest conglomerate in Vietnam.
 
