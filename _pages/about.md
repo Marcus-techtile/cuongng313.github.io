@@ -101,6 +101,40 @@ Reviewer of Transactions of the Institute of Measurement and Control.
   </div>
 </div>
 
+## Awards & Honors
+
+<div class="awards-container">
+  <div class="award-item">
+    <div class="award-year">2020 - 2021</div>
+    <div class="award-content">
+      <h4>VinIF Scholarship</h4>
+      <p>Vingroup Innovation Foundation</p>
+      <p class="award-desc">Awarded to outstanding graduate students in science and technology</p>
+    </div>
+  </div>
+
+  <div class="award-item">
+    <div class="award-year">2020</div>
+    <div class="award-content">
+      <h4>University Scholarship</h4>
+      <p>Hanoi University of Science and Technology</p>
+      <p class="award-desc">Academic excellence in Master's program</p>
+    </div>
+  </div>
+
+  <div class="award-item">
+    <div class="award-year">2020</div>
+    <div class="award-content">
+      <h4>Best Graduation Thesis Award</h4>
+      <p>Hanoi University of Science and Technology</p>
+      <p class="award-desc">Outstanding Graduation Thesis in Control Engineering and Automation</p>
+    </div>
+  </div>
+
+
+</div>
+
+
 ## Vitæ
 <div class="cv" id="resume">
   <!-- The Timeline -->
@@ -362,5 +396,74 @@ Reviewer of Transactions of the Institute of Measurement and Control.
 .research-item li {
   margin-bottom: 0.5em;
   line-height: 1.4;
+}
+</style>
+
+<style>
+.awards-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.award-item {
+  display: flex;
+  margin-bottom: 1.5em;
+  padding: 1em;
+  background: #f8f9fa;
+  border-radius: 5px;
+  transition: transform 0.2s ease;
+}
+
+.award-item:hover {
+  transform: translateX(5px);
+}
+
+.award-year {
+  flex: 0 0 80px;
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #006E51;
+  padding-right: 1em;
+  border-right: 2px solid #006E51;
+  display: flex;
+  align-items: center;
+}
+
+.award-content {
+  flex: 1;
+  padding-left: 1em;
+}
+
+.award-content h4 {
+  margin: 0;
+  color: #333;
+  font-size: 1.1em;
+}
+
+.award-content p {
+  margin: 0.3em 0;
+  color: #666;
+}
+
+.award-desc {
+  font-style: italic;
+  font-size: 0.9em;
+}
+
+@media (max-width: 600px) {
+  .award-item {
+    flex-direction: column;
+  }
+  
+  .award-year {
+    border-right: none;
+    border-bottom: 2px solid #006E51;
+    padding: 0 0 0.5em 0;
+    margin-bottom: 0.5em;
+  }
+  
+  .award-content {
+    padding-left: 0;
+  }
 }
 </style>
