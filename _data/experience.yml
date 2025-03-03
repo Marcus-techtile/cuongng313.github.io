@@ -1,0 +1,36 @@
+experiences:
+  - category: work
+    place: "Goldbell Group"
+    time: "Oct 2022 - Present"
+    title: "Robotics Engineer"
+    subtitle: "Singapore"
+
+  - category: work
+    place: "VAST"
+    time: "Oct 2020 - Present"
+    title: "Researcher"
+    # subtitle: "Vietnam"
+
+  - category: education
+    place: "HUST"
+    time: "Oct 2020 - May 2022"
+    title: "M.S. in Control Engineering and Automation"
+    subtitle: "Awarded university and VinIF scholarships"
+
+  - category: work
+    place: "VinAI Research"
+    time: "Dec 2020 - Oct 2022"
+    title: "Robotics Engineer"
+    subtitle: "Auto Pilot (Autonomous Driving Vehicle)"
+
+  - category: work
+    place: "VAST"
+    time: "Jan 2019 - Oct 2020"
+    title: "Research Intern"
+    subtitle: "Autonomous Mobile Robots and Intelligent Control Systems"
+
+  - category: education
+    place: "HUST"
+    time: "Aug 2015 - Aug 2020"
+    title: "B.S. in Control Engineering and Automation"
+    subtitle: "Best Graduation Thesis Award"

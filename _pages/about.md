@@ -1,49 +1,291 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I am a Robotics Engineer at [Goldbell](https://www.goldbell.com.sg/), Singapore, and a Researcher at [ Vietnam Academy of Science and Technology](https://vast.gov.vn/web/vietnam-academy-of-science-and-technology/home).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+I obtained my M.S. degree in Control Engineering and Automation from [Hanoi University of Science and Technology](https://hust.edu.vn/en/), one of the most prestigious technical universities in Vietnam. During my studies, I was awarded scholarships from both the university and [VinIF](https://vinif.org/en/) VinIF, a highly regarded scholarship program funded by [VinGroup](https://vingroup.net/en), the largest conglomerate in Vietnam.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Prior to that, I earned my B.S. in Control Engineering and Automation from the same university, where I received the Best Graduation Thesis award. Additionally, I published a total of 13 research papers during that time.
+My full CV is available [here](../files/Marcus_profile.pdf).
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
+## News
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+<!-- - **February 7, 2025:** I was admitted to Northeastern University Khoury College of Computer Science as a PhD student.
+- **August 10, 2024:** I have extended my research internship in The Helping Hands Lab at Northeastern University until August 31, 2025.
+- **June 30, 2024:** Our paper, "Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance," has been accepted for an **Oral Presentation** at IEEE/RSJ IROS 2024.
+- **May 1, 2024:** This summer, I will join The Helping Hands Lab at Northeastern University as a research intern to work on cutting-edge robotic projects focusing on manipulations and 3D vision. Our projects will collaborate closely with Boston Dynamic AI to tackle critical challenges in robotics.
+- **January 31, 2024:** Our paper, "Vision-based FDM Printing for Fabricating Airtight Soft Actuators," has been accepted for an **Oral Presentation** at IEEE RoboSoft 2024. -->
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+## Research Vision
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+My long-term research is to develop intelligent robots and control systems. In addition, I am interested in the applications of robotics in not only industrial fields but also in daily life and other social sectors, with the goal of enhancing human quality of lifen.
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+## Selected Publications
+
+<div class="publications">
+  <div class="publication">
+    <p><a href="https://doi.org/10.1177/01423312221122470"><strong>Adaptive fuzzy Lyapunov-based model predictive control for parallel platform driving simulators</strong></a></p>
+    <p><i><strong>Cuong Nguyen Manh</strong>, N. T. Nguyen, N. B. Duy, and T. L. Nguyen</i></p>
+    <p>Transactions of the Institute of Measurement and Control, 2023, <a href="https://doi.org/10.1177/01423312221122470">[PDF]</a></p>
+  </div>
+
+  <div class="publication">
+    <p><a href="https://doi.org/10.18178/ijmerr.11.6.379-388"><strong>Design a Nonlinear MPC Controller for Autonomous Mobile Robot Navigation System Based on ROS</strong></a></p>
+    <p><i>H. D. Quang, T. L. Tran, T. N. Manh, <strong>Cuong Nguyen Manh</strong>* (corresponding author), T. N. Nhu, and N. B. Duy</i></p>
+    <p>International Journal of Mechanical Engineering and Robotics Research, 2022, <a href="https://www.ijmerr.com/uploadfile/2022/0510/20220510115959828.pdf">[PDF]</a></p>
+  </div>
+
+  <div class="publication">
+    <p><a href="https://doi.org/10.1080/00207179.2021.1980823"><strong>An adaptive neural network-based controller for car driving simulators</strong></a></p>
+    <p><i><strong>Cuong Nguyen Manh</strong>, T. N. Manh, D. H. T. Kim, Q. N. Van, and T. L. Nguyen</i></p>
+    <p>International Journal of Control, 2021, <a href="https://www.tandfonline.com/eprint/DU37KCQXKSRQTUKDFFIC/full?target=10.1080/00207179.2021.1980823">[PDF]</a></p>
+  </div>
+
+  <div class="publication">
+    <p><a href="https://doi.org/10.1080/00207179.2021.1980823"><strong>Adaptive Control for Uncertain Model of Omni-directional Mobile Robot Based on Radial Basis Function Neural Network</strong></a></p>
+    <p><i>D. H. T. Kim, T. N. Manh, <strong>Cuong Nguyen Manh</strong>, et al.</i></p>
+    <p>International Journal of Control, Automation and Systems, 2021, <a href="https://doi.org/10.1007/s12555-019-1004-6">[PDF]</a></p>
+  </div>
+
+  <div class="publication">
+    <p><a href="https://doi.org/10.1109/ICSSE.2019.8823550"><strong>Neural Network Based Adaptive Control of Web Transport Systems</strong></a></p>
+    <p><i><strong>Cuong Nguyen Manh</strong>, M. T. Van, D. N. Duc, L. N. Tung, D. P. Tien, and L. T. Thi</i></p>
+    <p>International Conference on System Science and Engineering (ICSSE), 2019, <a href="https://doi.org/10.1109/ICSSE.2019.8823550">[PDF]</a></p>
+  </div>
+</div>
+
+## Services
+Mentor of graduate students at VAST (2 students received VinIF scholarships and graduated with M.S. degree).
+
+Reviewer of: Transactions of the Institute of Measurement and Control.
+
+
+## Vitæ
+<div class="cv" id="resume">
+  <!-- The Timeline -->
+  <ul class="timeline">
+    {% for exp in site.data.experience.experiences %}
+    <li>
+      {% if exp.category == "work" %}
+      <div class="direction-l">
+      {% else %}
+      <div class="direction-r">
+      {% endif %}
+        <div class="flag-wrapper">
+          <span class="flag">{{ exp.place }}</span>
+          <span class="time-wrapper"><span class="time">{{ exp.time }}</span></span>
+        </div>
+        <div class="desc"><b>{{ exp.title }}</b> <br/> {{ exp.subtitle }}</div>
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<style>
+  .selected-publications {
+    margin-top: 20px;
+  }
+  .publication {
+    margin-bottom: 30px;
+    overflow: hidden;
+  }
+  .publication h4 {
+    margin-bottom: 5px;
+  }
+  .publication p {
+    margin: 5px 0;
+  }
+  .publication img {
+    border: 1px solid #ddd;
+  }
+</style>
+
+<style>
+/* Timeline */
+.timeline {
+  position: relative;
+  width: 100%;
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 15px 0;
+}
+
+.timeline::after {
+  content: '';
+  position: absolute;
+  width: 5px;
+  background: linear-gradient(to bottom, 
+    rgba(0,110,81,0) 0%,
+    rgb(5, 5, 5) 15%,
+    rgb(0, 0, 0) 85%,
+    rgba(0,110,81,0) 100%);
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  margin-left: -1px;
+}
+
+.timeline li {
+  padding: 15px 0;
+  list-style-type: none;
+}
+
+.timeline li:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.direction-l {
+  position: relative;
+  width: 45%; 
+  float: left;
+  text-align: right;
+  margin-right: 30px; 
+}
+
+.direction-r {
+  position: relative;
+  width: 45%; 
+  float: right;
+  margin-left: 30px;  
+}
+
+.flag-wrapper {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  margin: 0 20px; 
+}
+
+.flag {
+  position: relative;
+  display: inline;
+  background: rgb(248,248,248);
+  padding: 6px 10px;
+  border-radius: 5px;
+  font-weight: 600;
+  text-align: left;
+}
+
+.direction-l .flag:before,
+.direction-r .flag:before {
+  position: absolute;
+  top: 50%;
+  right: -68px;
+  content: ' ';
+  display: block;
+  width: 12px;
+  height: 12px;
+  margin-top: -10px;
+  background: #fff;
+  border-radius: 50%;
+  border: 8px solid rgb(251, 251, 251);
+  z-index: 10;
+  box-shadow: 0 0 0 4px rgba(127, 115, 239, 0.99);
+  transition: all 0.3s ease;
+}
+
+.direction-l .flag:hover:before,
+.direction-r .flag:hover:before {
+  background: #006E51;
+  box-shadow: 0 0 0 8px rgba(0,110,81,0.1);
+}
+
+.direction-r .flag:before {
+  left: -65px;
+}
+
+.time-wrapper {
+  display: inline;
+  line-height: 1em;
+  font-size: 0.66666em;
+  color: rgb(250,80,80);
+  vertical-align: middle;
+}
+
+.direction-l .time-wrapper {
+  float: left;
+}
+
+.direction-r .time-wrapper {
+  float: right;
+}
+
+.time {
+  display: inline-block;
+  padding: 4px 6px;
+  background: rgb(248,248,248);
+}
+
+.desc {
+  margin: 1em 0.75em 0 0;
+  font-size: 0.77777em;
+  font-style: italic;
+  line-height: 1.5em;
+}
+
+.direction-r .desc {
+  margin: 1em 0 0 0.75em;
+}
+
+/* Mobile */
+@media screen and (max-width: 660px) {
+  .timeline::after {
+    left: 31px;
+  }
+
+  .timeline li {
+    padding: 1em 0;
+  }
+
+  .direction-l,
+  .direction-r {
+    float: none;
+    width: 100%;
+    text-align: left;
+  }
+
+  .flag-wrapper {
+    text-align: left;
+  }
+
+  .flag {
+    background: rgb(255,255,255);
+    z-index: 15;
+  }
+
+  .direction-l .flag:before,
+  .direction-r .flag:before {
+    position: absolute;
+    top: -30px;
+    left: 35px;
+    content: ' ';
+    display: block;
+    width: 12px;
+    height: 12px;
+    margin-top: -10px;
+    background: #fff;
+    border-radius: 10px;
+    border: 4px solid #006E51;
+    z-index: 10;
+  }
+
+  .direction-l .time-wrapper,
+  .direction-r .time-wrapper {
+    float: none;
+    display: block;
+    margin: 0.6em 0 0 0;
+  }
+}
+</style>
