@@ -11,9 +11,9 @@ redirect_from:
 
 I am a Senior Robotics Engineer at [Goldbell](https://www.goldbell.com.sg/), Singapore, and a Researcher at [Vietnam Academy of Science and Technology](https://vast.gov.vn/web/vietnam-academy-of-science-and-technology/home).
 
-I obtained my M.S. degree in Control Engineering and Automation from [Hanoi University of Science and Technology](https://hust.edu.vn/en/),Top 1 technical university in Vietnam. During my studies, I was awarded scholarships from both the university and [VinIF](https://vinif.org/en/), a highly regarded scholarship program funded by [VinGroup](https://vingroup.net/en), the largest conglomerate in Vietnam.
+I obtained my M.S. degree in Control Engineering and Automation from [Hanoi University of Science and Technology (HUST)](https://hust.edu.vn/en/), Top 1 technical university in Vietnam. During my studies, I was awarded scholarships from both the university and [VinIF](https://vinif.org/en/), a highly regarded scholarship program funded by [VinGroup](https://vingroup.net/en), the largest conglomerate in Vietnam.
 
-Prior to that, I earned my B.S. in Control Engineering and Automation from the same university, where I received the Best Graduation Thesis award. Additionally, I published a total of 13 research papers during that time.
+Prior to that, I earned my B.S. in Control Engineering and Automation from HUST with Best Graduation Thesis award and published a total of 13 research papers.
 My full CV is available [here](../files/Marcus_profile.pdf).
 
 
@@ -27,7 +27,7 @@ My full CV is available [here](../files/Marcus_profile.pdf).
 
 ## Research Vision
 
-My long-term research is to develop intelligent robots and control systems. In addition, I am interested in the applications of robotics in not only industrial fields, but also in daily life and other social sectors, with the goal of enhancing human quality of life.
+My long-term research focuses on the development of intelligent robots and advanced control systems. I am dedicated to exploring the applications of robotics across various domains, including industrial, domestic, and social sectors. By leveraging the power of robotics, my goal is to significantly enhance human quality of life, making technology more accessible, efficient, and supportive in everyday activities and societal functions.
 
 ## Selected Publications
 
@@ -105,7 +105,16 @@ Reviewer of Transactions of the Institute of Measurement and Control.
 
 <div class="awards-container">
   <div class="award-item">
-    <div class="award-year">2020 - 2021</div>
+    <div class="award-year">2022</div>
+    <div class="award-content">
+      <h4>Excellent Grade Thesis</h4>
+      <p>Hanoi University of Science and Technology</p>
+      <!-- <p class="award-desc">Awarded to outstanding graduate students in science and technology</p> -->
+    </div>
+  </div>
+
+  <div class="award-item">
+    <div class="award-year">2020</div>
     <div class="award-content">
       <h4>VinIF Scholarship</h4>
       <p>Vingroup Innovation Foundation</p>
@@ -116,7 +125,7 @@ Reviewer of Transactions of the Institute of Measurement and Control.
   <div class="award-item">
     <div class="award-year">2020</div>
     <div class="award-content">
-      <h4>University Scholarship</h4>
+      <h4>Merit-based Scholarship</h4>
       <p>Hanoi University of Science and Technology</p>
       <p class="award-desc">Academic excellence in Master's program</p>
     </div>
