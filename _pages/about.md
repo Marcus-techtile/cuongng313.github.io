@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-I am a Robotics Engineer at [Goldbell](https://www.goldbell.com.sg/), Singapore, and a Researcher at [ Vietnam Academy of Science and Technology](https://vast.gov.vn/web/vietnam-academy-of-science-and-technology/home).
+I am a Robotics Engineer at [Goldbell](https://www.goldbell.com.sg/), Singapore, and a Researcher at [Vietnam Academy of Science and Technology](https://vast.gov.vn/web/vietnam-academy-of-science-and-technology/home).
 
 I obtained my M.S. degree in Control Engineering and Automation from [Hanoi University of Science and Technology](https://hust.edu.vn/en/), one of the most prestigious technical universities in Vietnam. During my studies, I was awarded scholarships from both the university and [VinIF](https://vinif.org/en/) VinIF, a highly regarded scholarship program funded by [VinGroup](https://vingroup.net/en), the largest conglomerate in Vietnam.
 
@@ -17,7 +17,7 @@ Prior to that, I earned my B.S. in Control Engineering and Automation from the s
 My full CV is available [here](../files/Marcus_profile.pdf).
 
 
-## News
+<!-- ## News -->
 
 <!-- - **February 7, 2025:** I was admitted to Northeastern University Khoury College of Computer Science as a PhD student.
 - **August 10, 2024:** I have extended my research internship in The Helping Hands Lab at Northeastern University until August 31, 2025.
@@ -66,43 +66,38 @@ My long-term research is to develop intelligent robots and control systems. In a
 ## Services
 Mentor of graduate students at VAST (2 students received VinIF scholarships and graduated with M.S. degree).
 
-Reviewer of: Transactions of the Institute of Measurement and Control.
+Reviewer of Transactions of the Institute of Measurement and Control.
 
 ## Selected Projects
 <div class="research-container">
   <div class="research-item">
-    <h3>Vietnam’s National project - Research and develop an intelligent mobile robot using
+    <p><strong>Vietnam’s National project - Research and develop an intelligent mobile robot using
       different types of sensing technology and IoT platform, AI, and implemented in radioactive
-      environment monitoring application</h3>
+      environment monitoring application</strong></p>
     <p class="research-meta">Vietnam Academy of Science and Technology | Oct 2023 - Present</p>
-    <p class="research-supervisor">Supervisor: Dr. Ngo Manh Tien</p>
   </div>
 
   <div class="research-item">
-    <h3>Master Project - Design adaptive controllers and a state observer for the parallel robot</h3>
+    <p><strong>Master Project - Design adaptive controllers and a state observer for the parallel robot</strong></p>
     <p class="research-meta">Hanoi University of Science and Technology | Oct 2020 - May 2022</p>
-    <p class="research-supervisor">Supervisor: Assoc. Prof. Nguyen Tung Lam</p>
   </div>
 
   <div class="research-item">
-    <h3>Research, design, and manufacture an intelligent humanoid robot IVASTBot implemented
-      in communication and serving people</h3>
+    <p><strong>Research, design, and manufacture an intelligent humanoid robot IVASTBot implemented
+      in communication and serving people</strong></p>
     <p class="research-meta">Vietnam Academy of Science and Technology | Oct 2020 - Sep 2023</p>
-    <p class="research-supervisor">Supervisor: Dr. Ngo Manh Tien</p>
   </div>
 
   <div class="research-item">
-    <h3>Graduation Project - Design an intelligent navigation system for the Omni mobile robot
-      in uncertain environments</h3>
+    <p><strong>Graduation Project - Design an intelligent navigation system for the Omni mobile robot
+      in uncertain environments</strong></p>
     <p class="research-meta">Hanoi University of Science and Technology | Jan 2019 - Oct 2020</p>
-    <p class="research-supervisor">Supervisors: Assoc. Prof. Nguyen Tung Lam & Dr. Ngo Manh Tien</p>
   </div>
 
   <div class="research-item">
-    <h3>Research and design nonlinear adaptive controllers for robot systems based on Radial
-      Basis Function neural network (RBFNN) and Fuzzy logic</h3>
+    <p><strong>Research and design nonlinear adaptive controllers for robot systems based on Radial
+      Basis Function neural network (RBFNN) and Fuzzy logic</strong></p>
     <p class="research-meta">Hanoi University of Science and Technology | Jan 2019 - Oct 2020</p>
-    <p class="research-supervisor">Supervisor: Assoc. Prof. Nguyen Tung Lam</p>
   </div>
 </div>
 
@@ -334,9 +329,9 @@ Reviewer of: Transactions of the Institute of Measurement and Control.
 }
 
 .research-item {
-  margin-bottom: 2em;
-  padding: 1.5em;
-  border-left: 4px solid #006E51;
+  margin-bottom: 0.5em;
+  padding: 0.5em;
+  border-left: 4px solid rgb(151, 159, 245);
   background: #f8f9fa;
   border-radius: 0 5px 5px 0;
 }
