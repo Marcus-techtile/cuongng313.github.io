@@ -27,7 +27,7 @@ My full CV is available [here](../files/Marcus_profile.pdf).
 
 ## Research Vision
 
-My long-term research is to develop intelligent robots and control systems. In addition, I am interested in the applications of robotics in not only industrial fields but also in daily life and other social sectors, with the goal of enhancing human quality of lifen.
+My long-term research is to develop intelligent robots and control systems. In addition, I am interested in the applications of robotics in not only industrial fields, but also in daily life and other social sectors, with the goal of enhancing human quality of life.
 
 ## Selected Publications
 
