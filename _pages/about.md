@@ -11,7 +11,7 @@ redirect_from:
 
 I am a Senior Robotics Engineer at [Goldbell](https://www.goldbell.com.sg/), Singapore, and a Researcher at [Vietnam Academy of Science and Technology](https://vast.gov.vn/web/vietnam-academy-of-science-and-technology/home).
 
-I obtained my M.S. degree in Control Engineering and Automation from [Hanoi University of Science and Technology](https://hust.edu.vn/en/), one of the most prestigious technical universities in Vietnam. During my studies, I was awarded scholarships from both the university and [VinIF](https://vinif.org/en/), a highly regarded scholarship program funded by [VinGroup](https://vingroup.net/en), the largest conglomerate in Vietnam.
+I obtained my M.S. degree in Control Engineering and Automation from [Hanoi University of Science and Technology](https://hust.edu.vn/en/),Top 1 technical university in Vietnam. During my studies, I was awarded scholarships from both the university and [VinIF](https://vinif.org/en/), a highly regarded scholarship program funded by [VinGroup](https://vingroup.net/en), the largest conglomerate in Vietnam.
 
 Prior to that, I earned my B.S. in Control Engineering and Automation from the same university, where I received the Best Graduation Thesis award. Additionally, I published a total of 13 research papers during that time.
 My full CV is available [here](../files/Marcus_profile.pdf).
