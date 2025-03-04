@@ -1,0 +1,245 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{paper1}{article}{}
+      \name{author}{5}{}{%
+        {{hash=e339f8f45be9784b9caa8a6b31e8dc40}{%
+           family={\textbf{Cuong\bibnamedelimb Nguyen\bibnamedelimb Manh}},
+           familyi={C\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=90b5c696abf1cacdb2417941bb42bd22}{%
+           family={Manh},
+           familyi={M\bibinitperiod},
+           given={Tien\bibnamedelima Ngo},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=4b7e4be17b8037db577043e801a8cb40}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Duyen\bibnamedelimb Ha\bibnamedelima Thi},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=cb78345d0ab7a4e83d9e546697494679}{%
+           family={Van},
+           familyi={V\bibinitperiod},
+           given={Quyen\bibnamedelima Nguyen},
+           giveni={Q\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=815d645293396c45e0449e9563766ef6}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Tung\bibnamedelima Lam},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{e16ba31c83ae71be80b42676ed990e26}
+      \strng{fullhash}{88a82b7b132bcbec3dfdf4c87755fdac}
+      \strng{bibnamehash}{88a82b7b132bcbec3dfdf4c87755fdac}
+      \strng{authorbibnamehash}{88a82b7b132bcbec3dfdf4c87755fdac}
+      \strng{authornamehash}{e16ba31c83ae71be80b42676ed990e26}
+      \strng{authorfullhash}{88a82b7b132bcbec3dfdf4c87755fdac}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Control}
+      \field{note}{\href{https://www.dropbox.com/scl/fi/wvmwtzzfirnd8d8ghdhz1/6.1.-Publication-An-adaptive-neural-network-based-controller-for-car-driving-simulators.pdf?rlkey=vimxde7nhbdirdrgllf6dvh1d&st=5w2xjl50&dl=0}{Full paper}}
+      \field{title}{\href{https://doi.org/10.1080/00207179.2021.1980823}{An adaptive neural network-based controller for car driving simulators}}
+      \field{year}{2021}
+    \endentry
+    \entry{paper2}{article}{}
+      \name{author}{4}{}{%
+        {{hash=e339f8f45be9784b9caa8a6b31e8dc40}{%
+           family={\textbf{Cuong\bibnamedelimb Nguyen\bibnamedelimb Manh}},
+           familyi={C\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=29a86c30233f0ca8041414192ef457ee}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Nhu\bibnamedelima Toan},
+           giveni={N\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=1f1e7b9a142619ce24ae6a9139ced13b}{%
+           family={Duy},
+           familyi={D\bibinitperiod},
+           given={Nam\bibnamedelima Bui},
+           giveni={N\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=815d645293396c45e0449e9563766ef6}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Tung\bibnamedelima Lam},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{8c6e589076d886e4c7f6aa0e57f3ec0a}
+      \strng{fullhash}{98fec4be3a124033d2f3293615b53789}
+      \strng{bibnamehash}{98fec4be3a124033d2f3293615b53789}
+      \strng{authorbibnamehash}{98fec4be3a124033d2f3293615b53789}
+      \strng{authornamehash}{8c6e589076d886e4c7f6aa0e57f3ec0a}
+      \strng{authorfullhash}{98fec4be3a124033d2f3293615b53789}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Transactions of the Institute of Measurement and Control}
+      \field{note}{\href{https://www.dropbox.com/scl/fi/cs2aed967195wftpq7opj/6.2.-Publication-Adaptive-Fuzzy-Lyapunov-based-MPC-control-for-parallel-robot-platform.pdf?rlkey=w0ukglcrsx0qhisls2ahi0yc1&st=nnx6ibgc&dl=0}{Full paper}}
+      \field{title}{\href{https://doi.org/10.1177/01423312221122470}{Adaptive fuzzy Lyapunov-based model predictive control for parallel platform driving simulators}}
+      \field{year}{2023}
+    \endentry
+    \entry{paper3}{article}{}
+      \name{author}{6}{}{%
+        {{hash=13512ea1ea347fa4b9118343d25ffe8e}{%
+           family={Quang},
+           familyi={Q\bibinitperiod},
+           given={Hiep\bibnamedelima Do},
+           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=aee37ceb4199bdfb8c1eec41bca64166}{%
+           family={Tran},
+           familyi={T\bibinitperiod},
+           given={Thang\bibnamedelima Le},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=90b5c696abf1cacdb2417941bb42bd22}{%
+           family={Manh},
+           familyi={M\bibinitperiod},
+           given={Tien\bibnamedelima Ngo},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=279a7f6e7e030fcb92d78ee734d3492f}{%
+           family={\textbf{Cuong\bibnamedelimb Nguyen\bibnamedelimb Manh*(corresponding\bibnamedelimb author)}},
+           familyi={C\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim a\bibinitperiod}}}%
+        {{hash=e1d9b7cc9fe1191b3a968c4b99a24c56}{%
+           family={Nhu},
+           familyi={N\bibinitperiod},
+           given={Toan\bibnamedelima Nguyen},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=1f1e7b9a142619ce24ae6a9139ced13b}{%
+           family={Duy},
+           familyi={D\bibinitperiod},
+           given={Nam\bibnamedelima Bui},
+           giveni={N\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{b18d811161474e5e3b2179c2339745a3}
+      \strng{fullhash}{4f952ab7af8533391cfee68ff7675257}
+      \strng{bibnamehash}{4f952ab7af8533391cfee68ff7675257}
+      \strng{authorbibnamehash}{4f952ab7af8533391cfee68ff7675257}
+      \strng{authornamehash}{b18d811161474e5e3b2179c2339745a3}
+      \strng{authorfullhash}{4f952ab7af8533391cfee68ff7675257}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Mechanical Engineering and Robotics Research}
+      \field{note}{\href{https://www.dropbox.com/scl/fi/7evwmfi8y0xcmj1vh23t5/6.3.-Publication-Design-a-nonlinear-MPC-controller-for-autonomous-mobile-robot-navigation-system-based-on-ROS.pdf?rlkey=on4ul9a59e8ymkycs3cvjrw5k&st=avt6shrd&dl=0}{Full paper}}
+      \field{title}{\href{https://doi.org/10.18178/ijmerr.11.6.379-388}{Design a Nonlinear MPC Controller for Autonomous Mobile Robot Navigation System Based on ROS}}
+      \field{year}{2022}
+    \endentry
+    \entry{paper4}{article}{}
+      \name{author}{7}{}{%
+        {{hash=4b7e4be17b8037db577043e801a8cb40}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Duyen\bibnamedelimb Ha\bibnamedelima Thi},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=90b5c696abf1cacdb2417941bb42bd22}{%
+           family={Manh},
+           familyi={M\bibinitperiod},
+           given={Tien\bibnamedelima Ngo},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=e339f8f45be9784b9caa8a6b31e8dc40}{%
+           family={\textbf{Cuong\bibnamedelimb Nguyen\bibnamedelimb Manh}},
+           familyi={C\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=872b6910b7c17aad6ee4d36bf26843f2}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Nhan\bibnamedelima Duc},
+           giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=93f68dcf87c185f1643b95be539eea82}{%
+           family={Tien},
+           familyi={T\bibinitperiod},
+           given={Dung\bibnamedelima Pham},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=0640e6f5ed579950fdc17c8dff65b3a3}{%
+           family={Van},
+           familyi={V\bibinitperiod},
+           given={Manh\bibnamedelima Tran},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=826941592ac997347438d0afd1060485}{%
+           family={Xuan},
+           familyi={X\bibinitperiod},
+           given={Minh\bibnamedelima Phan},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{51521be09332c969ca3e75a5298723d1}
+      \strng{fullhash}{b9f8b9d4532716f5e298736eaf474bbb}
+      \strng{bibnamehash}{b9f8b9d4532716f5e298736eaf474bbb}
+      \strng{authorbibnamehash}{b9f8b9d4532716f5e298736eaf474bbb}
+      \strng{authornamehash}{51521be09332c969ca3e75a5298723d1}
+      \strng{authorfullhash}{b9f8b9d4532716f5e298736eaf474bbb}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Control, Automation and Systems}
+      \field{note}{\href{https://www.dropbox.com/scl/fi/9bivcb2oieof9o9m1kt85/6.4.-Publication-Adaptive-Control-for-Uncertain-Model-of-Omni-directional-Mobile-Robot-Based-on-Radial-Basis-Function-Neural-Network..pdf?rlkey=nebstec25otn8tj3kqd38bqi5&st=sq525gqk&dl=0}{Full paper}}
+      \field{title}{\href{https://doi.org/10.1007/s12555-019-1004-6}{Adaptive Control for Uncertain Model of Omni-directional Mobile Robot Based on Radial Basis Function Neural Network}}
+      \field{year}{2021}
+    \endentry
+    \entry{paper5}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=e339f8f45be9784b9caa8a6b31e8dc40}{%
+           family={\textbf{Cuong\bibnamedelimb Nguyen\bibnamedelimb Manh}},
+           familyi={C\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=0640e6f5ed579950fdc17c8dff65b3a3}{%
+           family={Van},
+           familyi={V\bibinitperiod},
+           given={Manh\bibnamedelima Tran},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=752a92afd6cf0fd098e59028f5ea3187}{%
+           family={Duc},
+           familyi={D\bibinitperiod},
+           given={Dinh\bibnamedelima Nguyen},
+           giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=56f603874d079c3b5ce9779472ba425d}{%
+           family={Tung},
+           familyi={T\bibinitperiod},
+           given={Lam\bibnamedelima Nguyen},
+           giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=93f68dcf87c185f1643b95be539eea82}{%
+           family={Tien},
+           familyi={T\bibinitperiod},
+           given={Dung\bibnamedelima Pham},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=b2684aaefec9eeb071265f4e000dcd61}{%
+           family={Thi},
+           familyi={T\bibinitperiod},
+           given={Ly\bibnamedelima Tong},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{530a3c88a135b1abe1a36d39a95430c2}
+      \strng{fullhash}{75eb6e22b7c1bc4d81839eb3d179351c}
+      \strng{bibnamehash}{75eb6e22b7c1bc4d81839eb3d179351c}
+      \strng{authorbibnamehash}{75eb6e22b7c1bc4d81839eb3d179351c}
+      \strng{authornamehash}{530a3c88a135b1abe1a36d39a95430c2}
+      \strng{authorfullhash}{75eb6e22b7c1bc4d81839eb3d179351c}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 International Conference on System Science and Engineering (ICSSE)}
+      \field{note}{\href{https://www.dropbox.com/scl/fi/7i3sxn6i13qxjc25xd5ap/6.5.-Neural-Network-Based-Adaptive-Control-of-Web-Transport-Systems.pdf?rlkey=ae2s0iaiz2v2m0sk6601mifv4&st=av9pk3jh&dl=0}{Full paper}}
+      \field{title}{\href{https://doi.org/10.1109/ICSSE.2019.8823550}{Neural Network Based Adaptive Control of Web Transport Systems}}
+      \field{year}{2019}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
