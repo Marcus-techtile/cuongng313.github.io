@@ -71,7 +71,7 @@ Reviewer of Transactions of the Institute of Measurement and Control.
 ## Selected Projects
 <div class="research-container">
   <div class="research-item">
-    <p><strong>Vietnam’s National project - Research and develop an intelligent mobile robot using
+    <p><strong>Vietnam's National project - Research and develop an intelligent mobile robot using
       different types of sensing technology and IoT platform, AI, and implemented in radioactive
       environment monitoring application</strong></p>
     <p class="research-meta">Vietnam Academy of Science and Technology | Oct 2023 - Present</p>
@@ -166,6 +166,13 @@ Reviewer of Transactions of the Institute of Measurement and Control.
   </ul>
 </div>
 
+## Profile Views
+<div class="profile-views">
+  <p>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=marcus_profile_page" alt="Profile Views Counter" />
+  </p>
+</div>
+
 <style>
   .selected-publications {
     margin-top: 20px;
@@ -182,6 +189,18 @@ Reviewer of Transactions of the Institute of Measurement and Control.
   }
   .publication img {
     border: 1px solid #ddd;
+  }
+  
+  .profile-views {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+  }
+  
+  .profile-views img {
+    border: none;
   }
 </style>
 
