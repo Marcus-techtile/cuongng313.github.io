@@ -14,7 +14,7 @@ I am a Senior Robotics Engineer at [Goldbell](https://www.goldbell.com.sg/), Sin
 I obtained my M.S. degree in Control Engineering and Automation from [Hanoi University of Science and Technology (HUST)](https://hust.edu.vn/en/), Top 1 technical university in Vietnam. During my studies, I was awarded scholarships from both the university and [VinIF](https://vinif.org/en/), a highly regarded scholarship program funded by [VinGroup](https://vingroup.net/en), the largest conglomerate in Vietnam.
 
 Prior to that, I earned my B.S. in Control Engineering and Automation from HUST with Best Graduation Thesis award and published a total of 13 research papers.
-My full CV is available [here](../files/marcus_cv/full_version/marcus_cv_full.pdf).
+My full CV is available [here](../files/marcus_cv_full.pdf).
 
 
 <!-- ## News -->
